@@ -14,6 +14,7 @@
 - [https://hub.docker.com/r/beginor/gitlab-ce/](https://hub.docker.com/r/beginor/gitlab-ce/)
 - [使用docker运行gitlab服务 - CSDN博客](https://blog.csdn.net/felix_yujing/article/details/52139070)
 - [Git学习-->GitLab如何修改时区？ - CSDN博客](https://blog.csdn.net/ouyang_peng/article/details/78653790)
+- [docker部署的GitLab代码自动备份 - CSDN博客](https://blog.csdn.net/u014258541/article/details/79317180)
 
 ### Jenkins
 
