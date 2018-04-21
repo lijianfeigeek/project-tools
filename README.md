@@ -21,6 +21,8 @@
 - [Jenkins邮件配置，实现邮件发送策略（可实现每个Job对应不同的发送邮箱） - EasonJim - 博客园](http://www.cnblogs.com/EasonJim/p/6068002.html)
 - [持续集成（Continuous integration） - 99fu - 博客园](http://www.cnblogs.com/99fu/p/6042744.html)
 - [使用Generic Webhook Trigger插件实现Jenkins+WebHooks（码云）持续集成--指定具体项目和分支进行集成 - CSDN博客](https://blog.csdn.net/xlgen157387/article/details/76216351)
+- [Jenkins的关闭、重启 - CSDN博客](https://blog.csdn.net/itfootball/article/details/44876517)
+- [Jenkins备份插件 - Jenkins教程™](https://www.yiibai.com/jenkins/jenkins_backup_plugin.html)
 
 ### windows-server 企业邮箱
 
