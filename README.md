@@ -33,3 +33,10 @@
 - [HMailServer怎样对付垃圾邮件(点晴MIS系统内部论坛)](http://www.clicksun.com.cn/mis/bbs/showbbs.asp?id=953)
 - [hmailserver批量添加用户 - CSDN博客](https://blog.csdn.net/oLinBSoft/article/details/65446059)
 
+
+### Electron 打包/部署/自动更新
+
+- [electron项目的打包 | classlfz的笔记本](http://classlfz.com/2017/09/30/electron-pack/)
+- [Configuration · electron-builder](https://www.electron.build/configuration/configuration)
+- [利用 electron-builder 实现 electron app 的署名／打包／发布以及自动更新 | Nic's Utopia](https://nicholaslee119.github.io/2018/01/11/electronBuilder%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
+- [electron-builder打包工具的最简化使用](https://newsn.net/say/electron-builder-basic.html)
