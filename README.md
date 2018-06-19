@@ -40,3 +40,8 @@
 - [Configuration · electron-builder](https://www.electron.build/configuration/configuration)
 - [利用 electron-builder 实现 electron app 的署名／打包／发布以及自动更新 | Nic's Utopia](https://nicholaslee119.github.io/2018/01/11/electronBuilder%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 - [electron-builder打包工具的最简化使用](https://newsn.net/say/electron-builder-basic.html)
+
+### HLS 流媒体
+
+- [GitHub - hauk0101/video-hls-encrypt: 一个基于hls协议的视频加密Demo](https://github.com/hauk0101/video-hls-encrypt)
+
